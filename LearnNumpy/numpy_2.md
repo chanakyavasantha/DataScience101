@@ -23,9 +23,12 @@ arr = np.array([10, 20, 30, 40, 50])
 ```
 **Program:**
 ```python
-# program to produce output
+import numpy as np
 
-
+arr = np.array([10, 20, 30, 40, 50])
+print("First element:", arr[0])
+print("Last element:", arr[4])
+print("Element at third position:", arr[3])
 ```
 
 **Sample Output:**
