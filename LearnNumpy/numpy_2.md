@@ -28,7 +28,7 @@ import numpy as np
 arr = np.array([10, 20, 30, 40, 50])
 print("First element:", arr[0])
 print("Last element:", arr[4])
-print("Element at third position:", arr[3])
+print("Element at 3rd Position:", arr[3])
 ```
 
 **Sample Output:**
